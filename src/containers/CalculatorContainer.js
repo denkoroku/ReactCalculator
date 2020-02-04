@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 import CalcButtons from '../components/CalcButtons'
 
 class CalculatorContainer extends Component {
